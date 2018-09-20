@@ -1,6 +1,7 @@
 # Damian Mietus
 # Reddit Daily Programmer
 # Challenge #366 [Easy] Word Funnel 1
+# Completed September 20 2018
 
 #Function that iterates to find where the stings no longer match, removes the
 #character, and returns true or false if it is a valid word funnel
